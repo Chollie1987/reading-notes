@@ -43,3 +43,4 @@ Back and forth the resources go. From clients to servers nobody knows the inform
 
 2. You add java to HTML by putting with a script link that you add just befor the closing body tag. 
 
+## Things I want to know more about
