@@ -22,3 +22,7 @@
 **Object Prototypes Using A Constructor**
 
 1. Prototype and inheritance analogy from previous work experience. I have to think about this more. 
+
+## Things I want to know more about
+
+1. Prototypes and how they work
